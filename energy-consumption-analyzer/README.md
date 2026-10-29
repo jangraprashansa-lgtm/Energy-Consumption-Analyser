@@ -58,11 +58,6 @@ Python 3.10 or newer is recommended.
    .venv\Scripts\Activate.ps1
    ```
 
-   If PowerShell blocks activation, open a Command Prompt terminal and run:
-   ```bat
-   .venv\Scripts\activate.bat
-   ```
-
 4. Install the dependencies:
 
    ```bash
@@ -77,7 +72,6 @@ Python 3.10 or newer is recommended.
 
 6. Streamlit will show a local URL in the terminal, usually `http://localhost:8501`. Open it in your browser.
 
-If `python` is not recognized, try using `py` in the commands where appropriate.
 
 ## CSV format
 
@@ -103,12 +97,12 @@ This project estimates consumption from rated power and operating hours; it does
 
 ## Learning goals
 
-- Apply the electrical energy formula in code.
-- Read and validate structured data.
-- Summarize data with pandas.
-- Create charts with Matplotlib.
-- Build a small interactive data application.
-- Use Git and GitHub to version and share a project.
+- Applied the electrical energy formula in code.
+- Read and validated structured data.
+- Summarized data with pandas.
+- Created charts with Matplotlib.
+- Built a small interactive data application.
+- Used Git and GitHub to version and share a project.
 
 ## License
 
