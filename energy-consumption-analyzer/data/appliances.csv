@@ -1,0 +1,6 @@
+appliance,power_watts,hours_per_day,quantity
+Fan,75,8,2
+LED Bulb,10,6,4
+Laptop,65,5,1
+Television,100,4,1
+Refrigerator,150,10,1
